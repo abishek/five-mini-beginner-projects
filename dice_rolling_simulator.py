@@ -1,5 +1,7 @@
 ## Dice Rolling Simulator
 
+# TODO: add argument support to change min-max limits
+
 from random import Random
 
 def roll_dice(random_simulator, choices) :
